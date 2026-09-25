@@ -13,7 +13,7 @@
 
 
 ### オーディオ用OPAMP回路
-- ![仙台高専のMizukiItouさんのAB級アンプレイアウト画面](/opamp_r2r_audio/MizukiItou/images/opamp_r2r_ABAMP_diff_itoumizuki.png)
+- ![仙台高専のMizukiItouさんのAB級アンプレイアウト画面](/opamp_r2r_audio/MizukiItou/images/opamp_r2r_ABAMP_itoumizuki.png)
 - ![仙台高専のMizukiItouさんの二段差動増幅OPAMPレイアウト画面](/opamp_r2r_audio/MizukiItou/images/opamp_r2r_diff_itoumizuki.png)
 - ![仙台高専のMizukiItouさんのAB級アンプレイアウト画面](/opamp_r2r_audio/MizukiItou/images/opamp_r2r_itoumizuki.png)
     - [仙台高専のMizukiItouさんのレイアウト置き場](/opamp_r2r_audio/MizukiItou//)
