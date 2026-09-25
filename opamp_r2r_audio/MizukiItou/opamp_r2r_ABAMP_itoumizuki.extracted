@@ -1,0 +1,19 @@
+* Created by KLayout
+*** My special header ***
+
+* cell opamp_r2r_ABAMP_itoumizuki
+* pin CAP_N
+* pin CAP_P
+* pin OUT
+* pin VDD
+* pin VSS
+.SUBCKT opamp_r2r_ABAMP_itoumizuki CAP_N CAP_P OUT VDD VSS
+* device instance $1 r270 *1 191.8,203.2 PMOS
+XM$1 VDD \$6 OUT VDD PMOS L=4u W=576u AS=895.2p AD=895.2p PS=674.6u PD=674.6u
+* device instance $25 r270 *1 30,161.2 NMOS
+XM$25 VSS \$2 OUT VSS NMOS L=4u W=288u AS=463.2p AD=463.2p PS=350.6u PD=350.6u
+* device instance $37 r0 *1 62.4,276.7 F_CSIO
+XC$37 CAP_N OUT VSS F_CSIO C=3.897816e-12 A=6496.36p P=322.4u X=80.6 Y=80.6 m=2
+* device instance $38 r0 *1 161.8,276.7 F_CSIO
+XC$38 CAP_P OUT VSS F_CSIO C=3.897816e-12 A=6496.36p P=322.4u X=80.6 Y=80.6 m=2
+.ENDS opamp_r2r_ABAMP_itoumizuki
